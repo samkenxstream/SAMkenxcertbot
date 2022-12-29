@@ -146,7 +146,7 @@ s3transfer==0.6.0; python_version >= "3.7"
 secretstorage==3.3.2; python_version >= "3.7" and python_version < "4.0" and sys_platform == "linux"
 semantic-version==2.10.0; python_version >= "3.7"
 setuptools-rust==1.4.1
-setuptools==63.2.0; python_version >= "3.7"
+setuptools==65.5.1; python_version >= "3.7"
 shellingham==1.4.0; python_version >= "3.7" and python_version < "4.0"
 six==1.16.0; python_version >= "3.7"
 snowballstemmer==2.2.0; python_version >= "3.7"
